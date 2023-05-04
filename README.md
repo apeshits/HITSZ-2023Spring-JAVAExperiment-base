@@ -1,2 +1,1 @@
-# HITSZ-2023Spring-JAVAExperiment-base
-hitsz2023春季学期java实验飞机大战基础版，基于java和swing开发的本地运行的飞机大战小游戏
+# AircraftWar
